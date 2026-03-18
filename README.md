@@ -9,7 +9,6 @@ A full-stack web application that allows users to create, edit, and review prope
 - Add and delete reviews
 - Image upload using Cloudinary
 - Interactive maps with geolocation
-- Search and filter listings
 - Authorization (only owners can edit/delete)
 
 ## 🛠 Tech Stack
